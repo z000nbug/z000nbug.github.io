@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Z000n's Repository                          # the main title
+title: My repository                          # the main title
 
-tagline: Knowledge repository of my learnings.  # it will display as the sub-title
+tagline: Knowledgebase of my learnings in Cyber Security.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Cyber security is an ever evolving industry. With the amount of data out there, its difficult to keep up-to-date with everything. This is my contribution 
